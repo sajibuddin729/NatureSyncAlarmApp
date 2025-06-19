@@ -66,20 +66,6 @@ Before you begin, ensure you have the following installed:
 - **flutter**: The main Flutter SDK
 - **cupertino_icons**: iOS-style icons
 
-### Location Services
-- **geolocator** (^10.1.0): Get device location and handle permissions
-- **geocoding** (^2.1.1): Convert coordinates to human-readable addresses
-
-### Notifications
-- **flutter_local_notifications** (^16.3.2): Schedule and display local notifications
-- **timezone** (^0.9.2): Handle timezone calculations for notifications
-
-### Data Storage
-- **shared_preferences** (^2.2.2): Store user preferences and alarm data locally
-
-### Utilities
-- **intl** (^0.19.0): Internationalization and date formatting
-
 ### Development Tools
 - **flutter_test**: Testing framework
 - **flutter_lints** (^3.0.0): Dart linting rules
